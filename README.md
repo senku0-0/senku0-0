@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Senku! 👋
 
-<!--
-**senku0-0/senku0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=senku0-0)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a focus on open source projects and continuous learning. I love to explore new technologies and contribute to the community.
+
+- 🔭 I’m currently working on [Bus Reversation Management System](URL)
+- 🌱 I’m currently learning [About AI]
+- 👯 I’m looking to collaborate on [Open Source Project]
+- 📫 How to reach me: [readysetmoney999@gmail.com]
+- ⚡ Fun fact: [I like to learn new things and I love solving problems in a creative way]
+
+## 🛠️ Skills
+
+- **Languages:** PYTHON, JAVA, C, HTML, CSS, PHP, JavaScript
+- **Proficient With:** PYTHON, JAVA, HTML, CSS
+- **Query Language:** MySQL, PostgreSQL, MongoDB
+- **Frameworks:** Django, Spring Boot
+- **Tools:** Git, GitHub, Vs code, POSTMAN
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=senku0-0&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=senku0-0&theme=onedark)
+
+## 🚀 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senku0-0&layout=compact&theme=radical)
+
+## 🔧 Technologies & Tools
+
+![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,react,nodejs,python,cpp,js)
+
+## 🔗 Links
+
+- [LinkedIn](URL)
