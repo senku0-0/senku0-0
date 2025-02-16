@@ -34,7 +34,7 @@ I'm a passionate developer with a focus on open source projects and continuous l
 
 ## 🔧 Technologies & Tools
 
-![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,react,nodejs,python,cpp,js)
+![Tools](https://skillicons.dev/icons?i=java,python,c,php,js,postman,mysql,postgresql,mongodb)
 
 ## 🔗 Links
 
