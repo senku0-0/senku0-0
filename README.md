@@ -38,4 +38,4 @@ I'm a passionate developer with a focus on open source projects and continuous l
 
 ## 🔗 Links
 
-- [LinkedIn](URL)
+- [LinkedIn](https://www.linkedin.com/in/ashad--shaikh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
