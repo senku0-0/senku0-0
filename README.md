@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on open source projects and continuous l
 - 🔭 I’m currently working on [Bus Reversation Management System](URL)
 - 🌱 I’m currently learning [About AI]
 - 👯 I’m looking to collaborate on [Open Source Project]
-- 📫 How to reach me: [readysetmoney999@gmail.com]
+- 📫 How to reach me: [ashadshaikh.zx@gmail.com]
 - ⚡ Fun fact: [I like to learn new things and I love solving problems in a creative way]
 
 ## 🛠️ Skills
