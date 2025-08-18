@@ -1,4 +1,4 @@
-# Hi there, I'm Senku! 👋
+# Hi there, I'm Ashad! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=senku0-0)
 
