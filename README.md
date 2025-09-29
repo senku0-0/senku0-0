@@ -24,10 +24,6 @@ I'm a passionate developer with a focus on open source projects and continuous l
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=senku0-0&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=senku0-0&theme=onedark)
-
 ## 🚀 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senku0-0&layout=compact&theme=radical)
