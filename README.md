@@ -1,7 +1,5 @@
 # Hi there, I'm Ashad 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=senku0-0)
-
 ## 🚀 Developer | ML & AI Enthusiast | Builder
 
 Postgrad CS @ Abeda Inamdar | Full-stack dev | Modular systems | Creative problem solver
