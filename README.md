@@ -1,5 +1,5 @@
-# Hi there, I'm Ashad 👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;Hi+I'm+Ashad;Always+learning+new+things!)
+---
 ## 🚀 Developer | ML & AI Enthusiast | Builder
 
 Postgrad CS @ Abeda Inamdar | Full-stack dev | Modular systems | Creative problem solver
@@ -10,10 +10,6 @@ Postgrad CS @ Abeda Inamdar | Full-stack dev | Modular systems | Creative proble
 **Frameworks:** Django, Spring Boot  
 **DBs:** MySQL, PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, VS Code, Postman
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=senku0-0&show_icons=true&theme=radical)
 
 ## 🔧 Tools I Use
 
